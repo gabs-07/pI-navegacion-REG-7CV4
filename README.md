@@ -19,7 +19,7 @@ Bienvenido a mi proyecto de navegación de múltiples niveles en Flutter, donde 
 
 1. Clona el repositorio:
 	```bash
-	git clone https://github.com/tu-usuario/navegacion-ipn.git
+	git clone https://github.com/gabs-07/pI-navegacion-REG-7CV4.git
 	```
 2. Instala las dependencias:
 	```bash
