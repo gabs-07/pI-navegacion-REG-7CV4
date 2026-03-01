@@ -1,17 +1,33 @@
-# navegacion
 
-A new Flutter project.
+# 🚀 Navegación IPN 
 
-## Getting Started
+Bienvenido a mi proyecto de navegación de múltiples niveles en Flutter, donde podrás explorar las principales escuelas del Instituto Politécnico Nacional (IPN) y sus carreras.
 
-This project is a starting point for a Flutter application.
+## 📱 Descripción de las Activities
 
-A few resources to get you started if this is your first Flutter project:
+- **HomePage:** Pantalla principal con botones para cada escuela del IPN en Zacatenco.
+- **Pantallas de Escuela:** Cada escuela (ESCOM, ENCB, ESIQIE, ESIME, ESFM, ESIT) tiene su propia pantalla con información relevante y una lista de carreras.
+- **Detalle de Carrera:** Al seleccionar una carrera, se muestra una pantalla con la descripción específica y un botón para regresar.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🎬 Transiciones y Ciclo de Vida
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Las transiciones entre pantallas se manejan con `Navigator.push` y animaciones de desvanecimiento (`FadeTransition`).
+- El ciclo de vida de Android se respeta usando el sistema de rutas de Flutter, permitiendo que cada pantalla se monte y desmonte correctamente.
+- El botón de regresar utiliza `Navigator.pop` para volver a la pantalla anterior, manteniendo el historial de navegación.
+
+## 🛠️ Instrucciones para ejecutar la aplicación
+
+1. Clona el repositorio:
+	```bash
+	git clone https://github.com/tu-usuario/navegacion-ipn.git
+	```
+2. Instala las dependencias:
+	```bash
+	flutter pub get
+	```
+3. Ejecuta la app en tu dispositivo o emulador:
+	```bash
+	flutter run
+	```
+
+---
