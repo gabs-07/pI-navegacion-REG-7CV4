@@ -6,9 +6,13 @@ Bienvenido a mi proyecto de navegación de múltiples niveles en Flutter, donde 
 ## 📱 Descripción de las Activities
 
 - **HomePage:** Pantalla principal con botones para cada escuela del IPN en Zacatenco.
-- <img width="468" height="1005" alt="Image" src="https://github.com/user-attachments/assets/33b1d990-1164-4d03-82c6-bd70b9832232" />
+<img width="468" height="1005" alt="Image" src="https://github.com/user-attachments/assets/33b1d990-1164-4d03-82c6-bd70b9832232" />
 - **Pantallas de Escuela:** Cada escuela (ESCOM, ENCB, ESIQIE, ESIME, ESFM, ESIT) tiene su propia pantalla con información relevante y una lista de carreras.
+<img width="462" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6b35b722-1288-4ca7-ad0d-01a680435c89" />
 - **Detalle de Carrera:** Al seleccionar una carrera, se muestra una pantalla con la descripción específica y un botón para regresar.
+<img width="467" height="1003" alt="Image" src="https://github.com/user-attachments/assets/c4951c9d-a8b2-4dd4-80e8-1ef2fa95e1b2" />
+<img width="467" height="1015" alt="Image" src="https://github.com/user-attachments/assets/e202a5f4-4ad5-4abc-a5b4-0c009d6b0991" />
+<img width="467" height="1007" alt="Image" src="https://github.com/user-attachments/assets/af0d0e48-33dc-4d01-bc33-f4d976f3f445" />
 
 ## 🎬 Transiciones y Ciclo de Vida
 
