@@ -6,7 +6,7 @@ Bienvenido a mi proyecto de navegación de múltiples niveles en Flutter, donde 
 ## 📱 Descripción de las Activities
 
 - **HomePage:** Pantalla principal con botones para cada escuela del IPN en Zacatenco.
-<img width="468" height="1005" alt="Image" src="https://github.com/user-attachments/assets/33b1d990-1164-4d03-82c6-bd70b9832232" />
+<img width="234" height="600" alt="Image" src="https://github.com/user-attachments/assets/33b1d990-1164-4d03-82c6-bd70b9832232" />
 
 - **Pantallas de Escuela:** Cada escuela (ESCOM, ENCB, ESIQIE, ESIME, ESFM, ESIT) tiene su propia pantalla con información relevante y una lista de carreras.
 
